@@ -30,9 +30,7 @@ Note: Make sure you have the latest Android SDK and necessary dependencies insta
  
 | WatchList Page                       | View Page                             |
 | ----------------------------------- | ----------------------------------- |
-| ![cryptoWatchList](https://github.com/Sarthakag21/CryptoApp/assets/73837874/74e75832-e841-479c-8da9-64f4d70173d8)
- | ![cryptoView](https://github.com/Sarthakag21/CryptoApp/assets/73837874/ea3de5a3-62c5-4839-891d-5faaa5c40bd0)
- |
+| ![cryptoWatchList](https://github.com/Sarthakag21/CryptoApp/assets/73837874/74e75832-e841-479c-8da9-64f4d70173d8) | ![cryptoView](https://github.com/Sarthakag21/CryptoApp/assets/73837874/ea3de5a3-62c5-4839-891d-5faaa5c40bd0) |
 
 ## 🚀 About Me
 "Hello, I'm Sarthak Agarwal, a passionate developer in web and Android development. I have a strong command of HTML, CSS, and JavaScript, allowing me to create visually appealing and interactive websites. In addition, I am proficient in Kotlin, Flutter, and XML, enabling me to develop robust and feature-rich Android applications. I also possess knowledge of C++ and Java, which further enhances my programming skills."
