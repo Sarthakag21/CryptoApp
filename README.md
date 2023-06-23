@@ -24,6 +24,8 @@ The app fetches the real-time crypto rates and the bar graph from the **tradingv
 
 Note: Make sure you have the latest Android SDK and necessary dependencies installed.
 
+## Screenshots
+
 | Home page                       | Search Page                           |
 | ----------------------------------- | ----------------------------------- |
 | ![cryptoHome](https://github.com/Sarthakag21/CryptoApp/assets/73837874/37f677eb-d789-43a1-b6ed-ab0ff8737399) | ![cryptoSearch](https://github.com/Sarthakag21/CryptoApp/assets/73837874/e5be6771-df33-4094-b138-a24e6a27ec40) |
